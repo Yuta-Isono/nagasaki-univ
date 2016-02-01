@@ -73,7 +73,7 @@ pos.z += 899
 for i in range(0, 3):
     for j in range(0, 5):
         for k in range(0, 3):
-        	mc.setBlock(pos.x+i, pos.y + j, pos.z+k, block.Block(49,1))
+        	mc.setBlock(pos.x+i, pos.y + j, pos.z+k, block.Block(80,1))
 
 
 pos.x = x + 23
